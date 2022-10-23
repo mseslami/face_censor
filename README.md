@@ -1,4 +1,4 @@
-# face_censorf
+# face_censor
 It is a simple and easy-to-use project which censors multiple faces, if they exist, for given image input, video, or streaming video from your webcam.
 
 ![alt text](https://github.com/mseslami/face_censorf/blob/main/mahsa_original_annot_blur.png)
